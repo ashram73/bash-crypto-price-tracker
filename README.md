@@ -27,6 +27,7 @@ A simple Bash script to fetch and log cryptocurrency prices (via the free CoinGe
 
   
 3-Make scripts executable:
+
     chmod +x crypto_tracker.sh config.sh
 
 
